@@ -2,7 +2,7 @@
 - 👀 I’m interested in cs50
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on trading bots
-- 📫 How to reach me ig@10208322061_
+- 📫 How to reach me: ig@10208322061_
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
