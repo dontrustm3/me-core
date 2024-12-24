@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gn-005
+- 👋 Hi, I’m some random ahh
 - 👀 I’m interested in quant/algo trading
 - 🌱 I’m currently learning MQL5
 - 💞️ I’m looking to collaborate on trading bots
