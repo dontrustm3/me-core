@@ -1,8 +1,8 @@
-- 👋 Hi, I’m some random ahh
-- 👀 I’m interested in quant/algo trading
-- 🌱 I’m currently learning MQL5
+- 👋 Hi, I’m not too important
+- 👀 I’m interested in algo trading
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on trading bots
-- 📫 How to reach me: ig@10208322061_
+- 📫 How to reach me: N/a (for now anyway)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm not him
 
