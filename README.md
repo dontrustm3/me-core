@@ -1,4 +1,4 @@
-- 👋 Hi, I’m not too important
+- 👋 Hi
 - 👀 I’m interested in algo trading
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on trading bots
