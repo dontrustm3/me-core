@@ -1,9 +1,8 @@
 - 👋 Hi
-- 👀 I’m interested in algo trading
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on trading bots
-- 📫 How to reach me: N/a (for now anyway)
-- 😄 Pronouns: he/him
+- 👀 I’m interested in bash
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on the art of dying 
+- 📫 How to reach me: N/a
 - ⚡ Fun fact: i'm not him
 
 - https://youtu.be/TnCUJVPQH3I?si=VaJpMpExr0UDgqj9
